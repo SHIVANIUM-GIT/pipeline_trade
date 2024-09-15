@@ -1,0 +1,5 @@
+env/
+totp/
+.env
+FYERS_GUI.py
+venv/
